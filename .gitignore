@@ -1,6 +1,7 @@
 文章/
 # PROTEUS的备份文件夹
 *Project Backups/
+*.workspace
 
 #keil5生成文件
 *.uvgui.*
